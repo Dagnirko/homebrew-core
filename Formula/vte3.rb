@@ -21,7 +21,7 @@ class Vte3 < Formula
   depends_on "gettext"
   depends_on "gnutls"
   depends_on "gtk+3"
-  depends_on macos: :mojave
+  depends_on macos: :sierra
   depends_on "pcre2"
   depends_on "vala"
 
